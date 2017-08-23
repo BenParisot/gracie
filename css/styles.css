@@ -1,0 +1,16 @@
+#dark {
+  color: white;
+  background-color: black;
+}
+#light {
+  color: white;
+  background-color: tan;
+}
+.dark {
+  color: white;
+  background-color: black;
+}
+.light {
+  color: black;
+  background-color: tan;
+}
