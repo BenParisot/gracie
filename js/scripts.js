@@ -1,10 +1,34 @@
 $(document).ready(function() {
-  $("button#light").click(function() {
-    $("body").removeClass();
-    $("body").addClass("light");
+  $('#light-background').click(function() {
+    $('body').removeClass();
+    $('body').addClass('light');
+   });
+
+  $('#dark-background').click(function(){
+    $('body').removeClass();
+    $('body').addClass('dark');
   });
-  $("button#dark").click(function() {
-    $("body").removeClass();
-    $("body").addClass("dark");
   });
-});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//   $('#light-background').click(function() {
+//     $('body').addClass(".light");
+//   });
+//
+//   #('#dark-background').click(funciton(){
+//     #('body').addClass(".dark");
+//   })
+//
+// });

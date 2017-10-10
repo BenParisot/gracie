@@ -1,19 +1,55 @@
-#dark {
+.light {
+  color: black;
+  background-color: white;
+}
+
+.dark {
   color: white;
   background-color: black;
 }
-#light {
+
+button {
+  padding: 5px 10px;
+  margin: 10px 15px;
+}
+
+#light-background {
+  color: #151515;
+  background-color: #fafafa;
+}
+
+#dark-background {
+  color: #fafafa;
+  background-color: #151515;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.dark {
   color: white;
-  background-color: tan;
+  background-color: black;
 }
-#two {
-  color: yellow;
-}
-.dark {
+.light {
+  color: black;
+  background-color: white;
+}*/
+
+/*.dark {
   color: white;
   background-color: black;
 }
 .light {
   color: black;
   background-color: tan;
-}
+}*/
